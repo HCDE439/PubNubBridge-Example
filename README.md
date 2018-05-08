@@ -1,1 +1,1 @@
-# PubNubBridge-Example
+# PubNub Bridge Example
